@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Confirmation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+            
+            
+        }
+        .main{
+            height: 100vh;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            /* align-items: center; */
+            /* justify-content: center; */
+        }
+        .container {
+            
+            width: 100%;
+            padding: 20px;
+            background-color: #ffffff;
+            border: 1px solid #dddddd;
+            /* border-radius: 10px; */
+            /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header h1 {
+            color: #333333;
+            margin: 0;
+        }
+        .content {
+            font-size: 16px;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        .order-id {
+            font-weight: bold;
+            color: #007bff;
+        }
+        .footer {
+            text-align: center;
+            color: #666666;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="main">
+    <div class="container">
+        <div class="">
+            <h1>Order Confirmation 🎉</h1>
+        </div>
+        <div class="content">
+            <p>Thank you 🙏 for placing your order with us. Your order has been successfully processed.</p>
+            <p>Your order ID is: <span class="order-id">${orderId}</span></p>
+            <p>We will notify you once your order has been shipped. In the meantime, feel free to <a href="#">contact us</a> if you have any questions or concerns.</p>
+        </div>
+        <div class="footer">
+            <p>This email was sent automatically. Please do not reply.</p>
+        </div>
+    </div>
+</div>
+</body>
+</html>
