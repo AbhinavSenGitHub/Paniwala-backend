@@ -6,7 +6,7 @@ Developed "Paniwala," a web platform designed to provide high-quality bottled wa
 
 
 ## Introduction
-GetnGo is a platform that allows car owners to list their vehicles for rent and enables travelers to find and book cars in their desired location. Our goal is to provide a seamless and secure experience for both hosts and renters.
+Paniwala is a creative solution developed for the Innovative Startup Idea Pitch event, aimed at tackling the urgent need for accessible and affordable clean drinking water. This concept centers around a user-friendly web platform that enables customers to easily order high-quality bottled water. Leveraging partnerships with over 25 local suppliers, Paniwala is designed to ensure a reliable supply chain and prompt delivery, addressing both convenience and quality. Our pitch focuses on transforming the water delivery landscape, making clean drinking water more accessible to communities in need.
 
 ## Features
 
