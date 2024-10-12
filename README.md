@@ -1,4 +1,4 @@
-## Pani Wala 
+## Pani wala 
 <div align="center" style= "margin-bottom: 200px">
   <img src="https://github.com/user-attachments/assets/2b36bf63-27b7-4b52-bdda-9dfa72807df0" alt="GetnGo Logo" width="200"/>
 </div>
